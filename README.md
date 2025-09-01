@@ -10,4 +10,4 @@ Nesse documento anexo analiso um caso recente de como pode ser aplicado o tema. 
 O caso se trata de uma investigação da WIRED que revelou que o gerador de vídeos Sora, da OpenAI, reproduz certos estereótipos.
 
 Quer ver a análise completa sobre esse caso? 
-👉 Relatório Completo: [Link para o PDF do Relatório]
+👉 Relatório Completo: [Link para o PDF do Relatório https://github.com/andersiq/Experiencia-pratica-III/blob/main/Entrega%20Experi%C3%AAncia%20Pr%C3%A1tica%20III.pdf]
